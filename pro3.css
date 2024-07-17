@@ -1,0 +1,41 @@
+div {
+    width: 60%;
+    height: 650px;
+    border: 5px solid #e9e6cf;
+    border-radius: 20px;
+    background-color:  #e9e6cf;
+  }
+
+.box2 {
+    width: 40%;
+    height: 350px;
+    border: 5px solid #e9994f;
+    border-radius: 10px;
+    background-color:  #e9994f;
+    position: relative;
+    top: -490px;
+  }
+
+  .topLeft{
+    width: 15%;
+    height: 100px;
+    border: 5px solid #ff8161;
+    border-radius: 10px;
+    background-color:  #ff8161;
+    position: relative;
+    top: -990px;
+    left: -290px;
+
+  }
+
+  .topRight{
+    width: 10%;
+    height: 70px;
+    border: 5px solid #ff8161;
+    border-radius: 10px;
+    background-color:  #ff8161;
+    position: relative;
+    top: -1100px;
+    left: 290px;
+
+  }
